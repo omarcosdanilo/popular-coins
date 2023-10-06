@@ -1,0 +1,6 @@
+[submodule "popular-coins-backend"]
+	path = popular-coins-backend
+	url = git@github.com:omarcosdanilo/popular-coins-backend.git
+[submodule "popular-coins-frontend"]
+	path = popular-coins-frontend
+	url = git@github.com:omarcosdanilo/popular-coins-frontend.git
