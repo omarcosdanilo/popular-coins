@@ -16,15 +16,6 @@ Tailwind
 **Backend:**
 Python e Flask
 
-
-
-
-## Demonstração
-![GIF](assets/popularCoins.gif)
-
-
-
-
 ## Instalação
 
 **1. Abra o terminal utlizando ("**ctrl+alt+t**") e crie um diretório no local de sua preferência com o comando **mkdir**, aqui neste exemplo usaremos o nome "**popularCoins**":**
