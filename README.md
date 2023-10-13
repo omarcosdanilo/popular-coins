@@ -20,7 +20,7 @@ Python e Flask
 
 
 ## Demonstração
-![GIF](assets/popularCoins.gif)
+![GIF](https://github.com/omarcosdanilo/popular-coins-frontend/tree/0041a68aa6c2b994dbeed8e88469371c0096a787/assets/popularCoins.gif)
 
 
 
